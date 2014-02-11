@@ -10,7 +10,9 @@ implicity of size 3 x 3.
 Examples of usage (from command line):
 
 java Main human AI
+
 java Main AI AI 10
+
 java Main human human 5
 
 For human players you will be prompted to input your move at each turn. This move is specified as a coordinate on the board,
